@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="51" total="52" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-04T18:27:58 IST" name="Default suite" finished-at="2024-10-04T18:27:58 IST" duration-ms="72">
+    <groups>
+    </groups>
+    <test started-at="2024-10-04T18:27:58 IST" name="Default test" finished-at="2024-10-04T18:27:58 IST" duration-ms="72">
+      <class name="StringPromrams.StringPrograms">
+        <test-method signature="anagramString2()[pri:0, instance:StringPromrams.StringPrograms@66f57048]" started-at="2024-10-04T18:27:58 IST" name="anagramString2" finished-at="2024-10-04T18:27:58 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- anagramString2 -->
+      </class> <!-- StringPromrams.StringPrograms -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
